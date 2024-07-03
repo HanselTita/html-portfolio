@@ -8,17 +8,13 @@ h4 {
   font-style: normal;
 }
 
+menu,
 footer {
-  font-style: italic;
-  align-content: center;
-  background-color: cornflowerblue;
-}
-
-menu {
   background-color: cornflowerblue;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   font-style: normal;
+  text-align: center;
 }
 
 p {
